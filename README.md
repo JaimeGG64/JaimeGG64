@@ -8,6 +8,7 @@
   - Databases
   - Project Managment
 - 💞️ I’m looking to collaborate on ...
+  - Shopify themes
 - 📫 How to reach me ...
   - jaimeggdev@gmail.com
 
