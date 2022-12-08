@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaimeGG64
+👋 Hi, I’m @JaimeGG64
 - 👀 I’m interested in ...
   - Front-End Web Development
   - User Experience
